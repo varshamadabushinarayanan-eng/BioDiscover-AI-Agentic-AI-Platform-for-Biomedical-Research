@@ -1,0 +1,60 @@
+[
+  {
+    "id": "BD-ILL-001",
+    "title": "Illustrative overview of neuroinflammation in Alzheimer disease",
+    "source": "Europe PMC (illustrative record)",
+    "disease": "Alzheimer disease",
+    "study_type": "review",
+    "summary": "This synthetic example record describes microglial activation and inflammatory signalling as research themes in Alzheimer disease.",
+    "entities": [
+      "Microglia",
+      "TNF",
+      "IL6",
+      "NF-kB"
+    ],
+    "entity_types": {
+      "Microglia": "CellType",
+      "TNF": "GeneOrProtein",
+      "IL6": "GeneOrProtein",
+      "NF-kB": "Pathway"
+    }
+  },
+  {
+    "id": "BD-ILL-002",
+    "title": "Illustrative study concept: amyloid-associated immune signalling",
+    "source": "PubMed (illustrative record)",
+    "disease": "Alzheimer disease",
+    "study_type": "primary_study",
+    "summary": "This synthetic example record represents a possible relationship between amyloid biology and innate immune activation.",
+    "entities": [
+      "APP",
+      "Microglia",
+      "TREM2"
+    ],
+    "entity_types": {
+      "APP": "Gene",
+      "Microglia": "CellType",
+      "TREM2": "Gene"
+    }
+  },
+  {
+    "id": "BD-ILL-003",
+    "title": "Illustrative review of inflammatory pathways in rheumatoid arthritis",
+    "source": "Europe PMC (illustrative record)",
+    "disease": "Rheumatoid arthritis",
+    "study_type": "review",
+    "summary": "This synthetic example record highlights cytokine signalling and immune-cell interactions as research themes in rheumatoid arthritis.",
+    "entities": [
+      "TNF",
+      "IL6",
+      "JAK-STAT",
+      "Macrophage"
+    ],
+    "entity_types": {
+      "TNF": "GeneOrProtein",
+      "IL6": "GeneOrProtein",
+      "JAK-STAT": "Pathway",
+      "Macrophage": "CellType"
+    }
+  }
+]
